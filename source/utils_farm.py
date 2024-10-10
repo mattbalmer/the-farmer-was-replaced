@@ -1,3 +1,6 @@
+from game.builtins import *
+from utils_movement import *
+
 def snake(fn):
 	move_start()
 	while not is_end_pos():

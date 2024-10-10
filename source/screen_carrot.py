@@ -1,3 +1,5 @@
+from _utils import *
+
 def screen_carrot(fml):
 	move_start()
 	moved = False

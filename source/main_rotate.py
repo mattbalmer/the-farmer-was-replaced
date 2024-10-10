@@ -1,3 +1,5 @@
+from _screens import *
+
 screens = [
 	['Hay', screen_hay, 5, {
 		'until': {

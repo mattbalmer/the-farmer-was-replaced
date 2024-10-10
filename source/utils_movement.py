@@ -1,3 +1,5 @@
+from game.builtins import *
+
 def is_start_pos():
 	return get_pos_x() == 0 and get_pos_y() == 0
 
